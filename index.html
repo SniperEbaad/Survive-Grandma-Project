@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title><strong>Surviving Grandma Guide</strong></title>
+</head>
+<body>
+<h1>The Offical Guide on Survive Grandma</h1>
+<p>This is Edition 1 of Suriving Grandma</p>
+<hr>
+<h2>Chapter 1. Food Trap</h2>
+<p>Never say No to her Food Whatever You do She Will always Make You eat another Plate of Food and You Saying No, Would make her angry.</p1>
+<p>So Dont Ever Say </p>
+<p>- No<br></p>
+<p>- I am Full<br></p>
+<p>- No Thank you</p>
+<p>She will somehow force a Second Plate of Food onto you!<br></p6>
+<hr>
+<h2>Chapter 2. Required Gear</h2>
+<p>The Gear you would need is!</p>
+<p>- Extra Phone Battery</p>
+<p>- Empty RuckSack to put Leftover Food In!</p>
+<p>- Tissues</p>
+<p>- Fake Homework for an Excuse</p>
+<p>- NoteBook</p>
+<p>- Heavy Jacket</p>
+<p>- Excuse Book</p>
+<p>- Headphones</p>
+<hr>
+<h2>Chapter 3. Sleeping</h2>
+<p>You Must not Make any Noice that would wake up <strong>Grandma</strong>as that would wake her up and make her angry</p>
+<p>If Grandma Ever Wakes up Do Not Run otherwise she will come after you</p>
+<hr>
+<h2>Excuse Generator</h2>
+<h2>Emergency Excuse Generator</h2>
+<button onclick="makeExcuse()">Generate Exsuse</button>
+<p id="excuse-box">You can click the button to generate an exuse.</p>
+
+<script>
+    function makeExcuse() {
+        var excuses = [
+            "I have to walk my Mouse",
+            "My Teacher Assigned me many pages of Homework",
+            "I left my Cat in my Oven",
+            "My Phone battery is 1%",
+            "I my Goldfish is Stuck in a Tree",
+    ];
+
+    var randomNumber = Math.floor(Math.random() * excuses.length);
+    document.getElementById("excuse-box").innerText = excuses[randomNumber];
+    }
+</script>
+<h1>That is Your Full Guide Tutorial Complete Best Wishes</h1></body>
+</html>
