@@ -17,5 +17,3 @@ I made it in HTNL recently on W3Schools I learnt HTML and coded this site by my 
 o
 
 You can try it over here https://broad-surf-c72b.ebaadahmad2.workers.dev
-
-![Alternative Text](images/screenshot.png)
