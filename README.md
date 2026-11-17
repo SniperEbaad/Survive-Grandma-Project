@@ -17,3 +17,8 @@ I made it in HTNL recently on W3Schools I learnt HTML and coded this site by my 
 o
 
 You can try it over here https://broad-surf-c72b.ebaadahmad2.workers.dev
+
+
+I also completed my demands which were No Cookies and No ScrollBar 
+
+to use this website you have to go to the link which is https://broad-surf-c72b.ebaadahmad2.workers.dev in a another tab and it should work perfectly for you!
